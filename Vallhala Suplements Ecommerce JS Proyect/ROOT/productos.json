@@ -1,0 +1,72 @@
+[
+    {
+        "sku": 1,
+        "nombre": "Creatina ENA",
+        "precio": 2500,
+        "categoria": "Creatina",
+        "imagen": "creaena.jpg"
+    },
+    {
+        "sku":2,
+        "nombre": "Creatina Gentech",
+        "precio": 2250,
+        "categoria": "Creatina",
+        "imagen": "creagentech.jpg"
+    },
+    {
+        "sku": 3,
+        "nombre": "Creatina Gold",
+        "precio": 2000,
+        "categoria": "Creatina",
+        "imagen": "creagold.jpg"
+    },
+    {
+        "sku": 4,
+        "nombre": "Proteina ENA",
+        "precio": 1500,
+        "categoria": "Proteina",
+        "imagen": "proteena.jpg"
+    },
+    {
+        "sku":5,
+        "nombre": "Proteina Gentech",
+        "precio": 1250,
+        "categoria": "Proteina",
+        "imagen": "protegentech.jpg"
+    },
+    {
+        "sku": 6,
+        "nombre": "Proteina Gold",
+        "precio": 1000,
+        "categoria": "Proteina",
+        "imagen": "protegold.jpg"
+    },
+    {
+        "sku": 7,
+        "nombre": "Aminoacidos ENA",
+        "precio":3500,
+        "categoria": "Aminoacidos",
+        "imagen": "aminoena.jpg"
+    },
+    {
+        "sku": 8,
+        "nombre": "Aminoacidos Gentech",
+        "precio": 3250,
+        "categoria": "Aminoacidos",
+        "imagen": "aminogentech.jpg"
+    },
+    {
+        "sku": 9,
+        "nombre": "Aminoacidos Gold",
+        "precio": 3000,
+        "categoria": "Aminoacidos",
+        "imagen": "aminogold.jpg"
+    },
+    {
+        "sku": 10,
+        "nombre": "Ostarine",
+        "precio": 8000,
+        "categoria": "SARMS",
+        "imagen": "OSTARINE.jpg"
+    }
+]
